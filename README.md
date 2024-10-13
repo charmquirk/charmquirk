@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GDScript and Java.
 - 💞️ I’m looking to collaborate on game projects.
 - 📫 Message me on Discord.
-- 😄 Pronouns: he/him/his and they/them/theirs.
+- 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I am fun.
 
 <!---
