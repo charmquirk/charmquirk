@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charm
 - 👀 I’m interested in coding, software development, game dev, and modding.
-- 🌱 I’m currently learning GDScript and Java.
-- 💞️ I’m looking to collaborate on game projects.
+- 🌱 I’m currently learning libnds and nightfox lib.
+- 💞️ I’m looking to collaborate on web and game projects.
 - 📫 Message me on Discord.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I am fun.
