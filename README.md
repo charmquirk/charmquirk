@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Charm
-- 👀 I’m interested in coding, software development, game dev, and modding.
-- 🌱 I’m currently learning libnds and nightfox lib.
+- 👋 Hi, I’m Charm.
+- 🚹 Pronouns: he/him/his.
+- 👀 I’m interested in web dev, software dev, game dev, and modding.
 - 💞️ I’m looking to collaborate on web and game projects.
-- 📫 Message me on Discord.
-- 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: I am fun.
+
+
 
 <!---
 charmquirk/charmquirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. - 🌱 I’m currently learning libnds and nightfox lib.
 --->
